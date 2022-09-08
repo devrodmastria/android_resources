@@ -1,5 +1,5 @@
 # android_resources
-List of useful links
+List of useful links for app developers
 * Ultimate Android Reference: https://github.com/aritraroy/UltimateAndroidReference
 * Simple logging: https://github.com/JakeWharton/timber
 * Chrome tool for BLE scanning: chrome://bluetooth-internals/#devices
